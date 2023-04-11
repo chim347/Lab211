@@ -1,4 +1,4 @@
-# Welocme to Lab211 Repository
+# Welcome to Lab211 Repository
 
 ### You will find in this repo a Java project with the following features included:
 
